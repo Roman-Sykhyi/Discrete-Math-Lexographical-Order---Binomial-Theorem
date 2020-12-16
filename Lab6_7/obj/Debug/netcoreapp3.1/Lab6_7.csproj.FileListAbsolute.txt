@@ -1,0 +1,13 @@
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\bin\Debug\netcoreapp3.1\Lab6_7.exe
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\bin\Debug\netcoreapp3.1\Lab6_7.deps.json
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\bin\Debug\netcoreapp3.1\Lab6_7.runtimeconfig.json
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\bin\Debug\netcoreapp3.1\Lab6_7.runtimeconfig.dev.json
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\bin\Debug\netcoreapp3.1\Lab6_7.dll
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\bin\Debug\netcoreapp3.1\Lab6_7.pdb
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\obj\Debug\netcoreapp3.1\Lab6_7.csprojAssemblyReference.cache
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\obj\Debug\netcoreapp3.1\Lab6_7.AssemblyInfoInputs.cache
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\obj\Debug\netcoreapp3.1\Lab6_7.AssemblyInfo.cs
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\obj\Debug\netcoreapp3.1\Lab6_7.csproj.CoreCompileInputs.cache
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\obj\Debug\netcoreapp3.1\Lab6_7.dll
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\obj\Debug\netcoreapp3.1\Lab6_7.pdb
+E:\lpnu\Дискретна математика\Лабораторні\6_7\Lab6_7\Lab6_7\obj\Debug\netcoreapp3.1\Lab6_7.genruntimeconfig.cache
